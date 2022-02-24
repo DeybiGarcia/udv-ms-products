@@ -34,3 +34,4 @@ build/
 nuevo 2.txt
 .Dockerfile.swp
 .DS_Store
+.mvn/
